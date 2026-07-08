@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm David Pilaguano
+# Hi , I'm David Pilaguano
 
 ### Software Engineering Student | Cybersecurity & AI Enthusiast
 
@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a Software Engineering student focused on building secure, scalable and useful software solutions.  
 My interests include cybersecurity, artificial intelligence, mobile applications, backend development and software testing.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +29,11 @@ My interests include cybersecurity, artificial intelligence, mobile applications
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 **Email:** plusmats@gmail.com  
-🌎 **Location:** Ecuador  
+ **Email:** dapilaguano@gmail.com  
+ **Email:** plusmats@gmail.com  
+ **Location:** Quito-Ecuador  
 
 ---
 
